@@ -1075,7 +1075,7 @@ section .container {
   right: 15px;
   bottom: 15px;
   font-size: 13px;
-  color: #fff;
+  color: #000;
   z-index: 1;
 }
 
